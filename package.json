@@ -1,11 +1,11 @@
 {
   "name": "@lightningpolar/litd-api",
-  "version": "0.14.0-alpha.rc1",
+  "version": "0.14.1-alpha",
   "description": "Lightning Terminal gRPC client to interact with Lightning Labs `litd` daemon.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "config": {
-    "litd_release_tag": "v0.14.0-alpha.rc1"
+    "litd_release_tag": "v0.14.1-alpha"
   },
   "files": [
     "dist",
